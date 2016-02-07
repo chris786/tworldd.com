@@ -107,12 +107,24 @@
             <h3 class='title'>About Me</h3>
             <hr class='star'><br>
 
-            <div class="aboutme">
+            
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="aboutme">
 
- <img class='img-responsive' src="img/lalli.png" width='260' height='260' style="float:left">
+                    <img class='img-responsive' src="img/lalli.png">
+                  </div>
+                </div>
 
+
+
+                <div class="col-md-2">
+                </div>
+
+                <div class="col-md-7">
                 
-                <div class='text-left padding'>
+
+                  <div class="text-left padding">
 
                   <div class="triangle-isosceles">
 
@@ -129,9 +141,11 @@
               <ul><li>HTML5, CSS3 using BOOTSTRAP framework</li><li>JAVASCRIPT and JQUERY</li></ul>
               <li>www.safepunjab.com</li>
               <ul><li>HTML, CSS and JAVASCRIPT</li><li>PHP and MYSQL</li></ul></ol></p>
+                  </div>
+                </div>
 
-            </div>
-            </div>
+                 
+                </div>
             
 
 
@@ -281,7 +295,7 @@
                   </li>
                   <li>
                     <a href="#" class='btn-social'><i class="fa fa-youtube"></i></a>
-                  </li>
+                  </li><br />
                   <li>
                     <a href="#" class='btn-social'><i class="fa fa-phone-square"></i>+64204701002</a>
                   </li>
