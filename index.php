@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bootstrap 3 | Create a Portfolio">
-    <meta name="author" content="Sandy">
+    <meta name="description" content="Gurjant Singh's Portfolio">
+    <meta name="author" content="Gurjant Singh">
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
